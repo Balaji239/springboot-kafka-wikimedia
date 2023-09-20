@@ -10,6 +10,7 @@
     </parent>
     <modules>
         <module>kafka-wikimedia-producer</module>
+        <module>kafka-wikimedia-consumer</module>
     </modules>
     <groupId>com.wikimedia</groupId>
     <artifactId>springboot-kafka-wikimedia</artifactId>
